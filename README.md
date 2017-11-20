@@ -63,13 +63,13 @@ A few things to notice:
    DT is the Headway.
     
     
-    start_time ________________________________________ end_time
-        | First Bus
-        <- DT-> | Second Bus
-                        |Third
-                                ....
-                                                     | Last bus
-                                                            |<-- can't add a new bus
+        start_time ________________________________________ end_time
+            | First Bus
+            <- DT-> | Second Bus
+                            |Third
+                                    ....
+                                                         | Last bus
+                                                                |<-- can't add a new bus
 
 
 ## How to run it 
